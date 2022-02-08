@@ -1,0 +1,14 @@
+C:\Users\danie\source\repos\Exercicio_01\Exercicio_01.ConsoleApp\bin\Debug\net6.0\Exercicio_01.ConsoleApp.exe
+C:\Users\danie\source\repos\Exercicio_01\Exercicio_01.ConsoleApp\bin\Debug\net6.0\Exercicio_01.ConsoleApp.deps.json
+C:\Users\danie\source\repos\Exercicio_01\Exercicio_01.ConsoleApp\bin\Debug\net6.0\Exercicio_01.ConsoleApp.runtimeconfig.json
+C:\Users\danie\source\repos\Exercicio_01\Exercicio_01.ConsoleApp\bin\Debug\net6.0\Exercicio_01.ConsoleApp.dll
+C:\Users\danie\source\repos\Exercicio_01\Exercicio_01.ConsoleApp\bin\Debug\net6.0\ref\Exercicio_01.ConsoleApp.dll
+C:\Users\danie\source\repos\Exercicio_01\Exercicio_01.ConsoleApp\bin\Debug\net6.0\Exercicio_01.ConsoleApp.pdb
+C:\Users\danie\source\repos\Exercicio_01\Exercicio_01.ConsoleApp\obj\Debug\net6.0\Exercicio_01.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\Exercicio_01\Exercicio_01.ConsoleApp\obj\Debug\net6.0\Exercicio_01.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Exercicio_01\Exercicio_01.ConsoleApp\obj\Debug\net6.0\Exercicio_01.ConsoleApp.AssemblyInfo.cs
+C:\Users\danie\source\repos\Exercicio_01\Exercicio_01.ConsoleApp\obj\Debug\net6.0\Exercicio_01.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Exercicio_01\Exercicio_01.ConsoleApp\obj\Debug\net6.0\Exercicio_01.ConsoleApp.dll
+C:\Users\danie\source\repos\Exercicio_01\Exercicio_01.ConsoleApp\obj\Debug\net6.0\ref\Exercicio_01.ConsoleApp.dll
+C:\Users\danie\source\repos\Exercicio_01\Exercicio_01.ConsoleApp\obj\Debug\net6.0\Exercicio_01.ConsoleApp.pdb
+C:\Users\danie\source\repos\Exercicio_01\Exercicio_01.ConsoleApp\obj\Debug\net6.0\Exercicio_01.ConsoleApp.genruntimeconfig.cache
